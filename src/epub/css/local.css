@@ -25,3 +25,8 @@ blockquote ol > li::marker{
     /* \a0 is nbsp to have space between parenthesis and text */
     content: "(" counter(list, lower-roman) ")\a0";
 }
+
+table{
+    margin: 1em;
+    border: none;
+}

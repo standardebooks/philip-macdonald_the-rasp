@@ -91,6 +91,8 @@ section[epub|type~="epigraph"] > *{
 /* Centered dedications */
 section[epub|type~="dedication"]{
 	text-align: center;
+	/* Custom styling, to match the scans */
+	font-variant: small-caps;
 }
 
 section[epub|type~="dedication"] > *{
@@ -118,10 +120,6 @@ section[epub|type~="dedication"] > *{
 /* End centered dedications */
 
 /* Custom dedication styling - to match scans */
-section[epub|type~="dedication"]{
-	font-variant: small-caps;
-}
-
 section[epub|type~="dedication"] span{
 	font-size: larger;
 }

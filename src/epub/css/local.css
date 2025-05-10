@@ -148,3 +148,20 @@ span.elision{
 	font-style: normal;
 }
 /* End poetry */
+
+/* Custom note/report header */
+/* to match the scans */
+blockquote header{
+	font-variant: small-caps;
+}
+
+/* to match section > header + * rule in core.css */
+blockquote > section > header > p{
+	margin-top: 3em
+}
+
+/* to match section > header + * rule in core.css */
+blockquote > header + *{
+	margin-top: 3em;
+}
+/* End custom note/report header

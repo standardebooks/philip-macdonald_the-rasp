@@ -16,16 +16,6 @@ footer{
 	text-indent: 0;
 }
 
-blockquote ol > li{
-	counter-increment: list;
-	list-style: none;
-}
-
-blockquote ol > li::marker{
-	/* \a0 is nbsp to have space between parenthesis and text */
-	content: "(" counter(list, lower-roman) ") ";
-}
-
 table{
 	border: none;
 	margin: 1em;

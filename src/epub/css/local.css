@@ -142,11 +142,11 @@ blockquote header{
 
 /* to match section > header + * rule in core.css */
 blockquote > section > header > p{
-	margin-top: 3em
+	margin-top: 3em;
 }
 
 /* to match section > header + * rule in core.css */
 blockquote > header + *{
 	margin-top: 3em;
 }
-/* End custom note/report header
+/* End custom note/report header */

@@ -46,8 +46,8 @@
 		<meta property="collection-type" refines="#collection-2">set</meta>
 		<dc:description id="description">A retired colonel investigates an elaborate murder of a cabinet minister.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;a href="https://standardebooks.org/collections/anthony-gethryn"&gt;Anthony Gethryn&lt;/a&gt;, a retired secret service colonel, is commisioned by the weekly newspaper to report on the murder of cabinet minister John Hoode. As he arrives in Abbotshall iron-clad alibis of everyone involved suggest that finding the murderer will not be an easy task. Aided by his ingenuity, a couple of friends and a bit of luck Anthony will have to find the culprit and perhaps something else that he is missing.&lt;/p&gt;
-			&lt;p&gt;The Rasp is a classic detective novel with a closed circle of suspects. Skillfully misdirecting the reader on multiple occasions, &lt;a href="https://standardebooks.org/ebooks/philip-macdonald"&gt;Philip MacDonald&lt;/a&gt; keeps the reader guessing who is the real murderer after all.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/collections/anthony-gethryn"&gt;Anthony Gethryn&lt;/a&gt;, a retired secret service colonel, is commissioned by the weekly newspaper to report on the murder of cabinet minister John Hoode. As he arrives in Abbotshall the iron-clad alibis of everyone involved suggest that finding the murderer will not be an easy task. Aided by his ingenuity, a couple of friends and a bit of luck Anthony will have to find the culprit and perhaps something else that he is missing.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Rasp&lt;/i&gt; is a classic detective novel with a closed circle of suspects. Skillfully misdirecting the reader on multiple occasions, &lt;a href="https://standardebooks.org/ebooks/philip-macdonald"&gt;Philip MacDonald&lt;/a&gt; keeps the reader guessing who is the real murderer after all.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/72462</dc:source>

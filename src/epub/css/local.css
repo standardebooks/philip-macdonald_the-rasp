@@ -150,3 +150,9 @@ blockquote > header + *{
 	margin-top: 3em;
 }
 /* End custom note/report header */
+
+/* Nested emphasis */
+em > em {
+	font-style: normal;
+}
+/* End nested emphasis */

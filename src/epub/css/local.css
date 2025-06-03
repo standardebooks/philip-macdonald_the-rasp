@@ -21,6 +21,17 @@ table{
 	margin: 1em;
 }
 
+/* Custom table formatting */
+th {
+	font-style: italic;
+	font-weight: normal;
+}
+
+td:first-child {
+	padding-right: 1em;
+}
+/* End custom table formatting */
+
 /* All epigraphs */
 [epub|type~="epigraph"]{
 	font-style: italic;

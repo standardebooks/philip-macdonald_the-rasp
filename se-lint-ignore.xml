@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="chapter-17.xhtml">
+		<ignore>
+			<code>s-023</code>
+			<reason>The Owl is the name of the newspaper, it should be italicised but tags are not allowed in the title.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>

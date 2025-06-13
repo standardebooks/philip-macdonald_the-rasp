@@ -22,12 +22,12 @@ table{
 }
 
 /* Custom table formatting */
-th {
+th{
 	font-style: italic;
 	font-weight: normal;
 }
 
-td:first-child {
+td:first-child{
 	padding-right: 1em;
 }
 /* End custom table formatting */
@@ -163,7 +163,7 @@ blockquote > header + *{
 /* End custom note/report header */
 
 /* Nested emphasis */
-em > em {
+em > em{
 	font-style: normal;
 }
 /* End nested emphasis */

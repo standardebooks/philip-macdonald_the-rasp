@@ -167,3 +167,7 @@ em > em{
 	font-style: normal;
 }
 /* End nested emphasis */
+
+#chapter-4 ol li:first-child p:last-child{
+	font-style: italic;
+}

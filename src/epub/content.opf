@@ -61,8 +61,8 @@
 		<meta property="file-as" refines="#author">MacDonald, Philip</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Philip_MacDonald</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79145541</meta>
-		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">John J. Porter</dc:contributor>
 		<meta property="file-as" refines="#artist">Porter, John J.</meta>
 		<meta property="se:name.person.full-name" refines="#artist">John James Porter</meta>

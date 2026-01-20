@@ -53,7 +53,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/72462</dc:source>
 		<dc:source>https://archive.org/details/rasp0000phil</dc:source>
-		<meta property="se:word-count">75248</meta>
+		<meta property="se:word-count">73383</meta>
 		<meta property="se:reading-ease.flesch">76.42</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Rasp</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/philip-macdonald_the-rasp</meta>

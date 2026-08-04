@@ -46,7 +46,7 @@
 		<meta property="group-position" refines="#collection-1">1</meta>
 		<meta id="collection-2" property="belongs-to-collection">Haycraft-Queen Cornerstones</meta>
 		<meta property="collection-type" refines="#collection-2">set</meta>
-		<dc:abstract>A retired colonel investigates the elaborate murder of a cabinet minister.</dc:abstract>
+		<meta property="schema:abstract">A retired colonel investigates the elaborate murder of a cabinet minister.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;a href="https://standardebooks.org/collections/anthony-gethryn"&gt;Anthony Gethryn&lt;/a&gt;, a retired secret service colonel, is commissioned by the weekly newspaper to report on the murder of cabinet minister John Hoode. As he arrives in Abbotshall, the iron-clad alibis of everyone involved suggest that finding the murderer won’t be an easy task. Aided by his ingenuity, a couple of friends, and a bit of luck, Anthony will have to uncover the culprit—and perhaps something else that he’s missing.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;The Rasp&lt;/i&gt; is a classic detective novel with a closed circle of suspects. Skillfully misdirecting the reader on multiple occasions, &lt;a href="https://standardebooks.org/ebooks/philip-macdonald"&gt;Philip MacDonald&lt;/a&gt; keeps the reader guessing.&lt;/p&gt;
